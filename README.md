@@ -1,4 +1,4 @@
-Remote Mouse & Keyboard Controller
+## Remote Mouse & Keyboard Controller
 
 Control your PC keyboard and mouse directly from your phone.
 This project combines a Go backend (using RobotGo) with a Flutter mobile app to give you remote control over your device.
