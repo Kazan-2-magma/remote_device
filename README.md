@@ -74,7 +74,7 @@ go build -o remote-device
 
 # Run server (default port 8000)
 ./remote-device
-
+```
 
 ## 🎥 Demo
 
