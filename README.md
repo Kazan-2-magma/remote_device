@@ -76,3 +76,8 @@ go build -o remote-device
 ./remote-device
 
 
+## 🎥 Demo
+
+<video src="demo.mp4" controls autoplay muted loop width="600">
+  Your browser does not support the video tag.
+</video>
